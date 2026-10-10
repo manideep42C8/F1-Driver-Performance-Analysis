@@ -138,19 +138,7 @@ numerical findings.
 -   More advanced statistical analysis.
 -   Automated updates for future seasons.
 
-## Repository Contents
 
-Update this list to match the files you actually upload:
-
-``` text
-F1-Driver-Performance-Analysis/
-├── data/              # Cleaned CSV datasets
-├── notebooks/         # Python analysis notebook(s)
-├── powerbi/           # Power BI report (.pbix)
-├── screenshots/       # Dashboard screenshots
-├── presentation/      # Project presentation
-└── README.md
-```
 
 ## How to Explore the Project
 
