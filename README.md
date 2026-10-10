@@ -29,7 +29,6 @@ BI.
 -   **FastF1** --- retrieve Formula 1 session data.
 -   **Python** --- data extraction and processing.
 -   **Pandas** --- cleaning, transformation, aggregation, and analysis.
--   **Matplotlib** --- data visualization where used.
 -   **Power BI** --- interactive dashboard and reporting.
 
 ## Workflow
